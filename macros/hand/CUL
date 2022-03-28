@@ -1,0 +1,5 @@
+/micon CUL classjob
+/gs change 28
+/hotbar copy CRP 1 CUL 1
+/hotbar copy CRP 2 CUL 2
+/hotbar copy CRP 3 CUL 3

@@ -1,0 +1,5 @@
+/micon CRP classjob
+/gs change 21
+/hotbar copy CRP 1 CRP 1
+/hotbar copy CRP 2 CRP 2
+/hotbar copy CRP 3 CRP 3

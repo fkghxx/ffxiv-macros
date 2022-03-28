@@ -1,2 +1,1 @@
-# ffxiv-macros
-# ffxiv-macros
+# FFXIV-macros

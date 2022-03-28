@@ -1,0 +1,5 @@
+/micon WVR classjob
+/gs change 26
+/hotbar copy CRP 1 WVR 1
+/hotbar copy CRP 2 WVR 2
+/hotbar copy CRP 3 WVR 3
